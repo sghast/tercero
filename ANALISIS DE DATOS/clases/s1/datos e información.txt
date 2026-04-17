@@ -1,0 +1,11 @@
+datos e información
+pirámide DIKW
+métricas y datos
+variables cuantitativas (discreta y continua) y cualitativas
+datos estructurados y no estructurados
+data lake
+metadatos
+ANÁLISIS DE DATOS
+-> 5 fases: 00 extracción | 01 EDA inicial | 02 limpieza | 03 EDA profundo | 04 comunicar
+procesos transversales
+array numpy
