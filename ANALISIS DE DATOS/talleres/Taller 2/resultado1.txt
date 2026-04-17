@@ -1,2 +1,0 @@
-DURACION
-dot: 1.5313 | multiply: 0.00161 | diferencia: 1.5296900000000002
