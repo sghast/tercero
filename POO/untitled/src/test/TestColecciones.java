@@ -46,5 +46,7 @@ public class TestColecciones {
         repaso.eliminarEstudiante(eliminar);
 
         repaso.recorrerEstudiante();
+
+        sc.close();
     }
 }

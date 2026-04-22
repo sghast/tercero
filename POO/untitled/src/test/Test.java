@@ -15,5 +15,7 @@ public class Test {
         String horario = datos.nextLine();
 
         System.out.printf("%nCódigo: %s%nNombre: %s%nCréditos: %d%nHorario: %s", codigo, nombre, ncreditos, horario);
+
+        datos.close();
     }
 }

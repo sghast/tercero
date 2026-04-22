@@ -12,5 +12,7 @@ public class TestPersona {
         p1.setEstatura(datos.nextDouble());
 
         System.out.println(p1.mostrar());
+
+        datos.close();
     }
 }
