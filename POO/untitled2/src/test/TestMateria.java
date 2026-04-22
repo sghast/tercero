@@ -11,5 +11,6 @@ public class TestMateria {
         materia.setnCreditos(3);
 
         System.out.println(materia.getNombre() + "\n" + materia.getnCreditos());
+        sc.close();
     }
 }

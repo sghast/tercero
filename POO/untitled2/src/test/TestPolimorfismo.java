@@ -12,11 +12,11 @@ public class TestPolimorfismo {
         InterfaceAuto objeto = new Trole(); // alcanza sólo los métodos de la interfaz
 
         // imprimrir
-//        System.out.println(auto.devolverNumLlantas());
-//        System.out.println(moto.devolverNumLlantas());
-//        System.out.println(trole.devolverNumLlantas());
-//        System.out.println(furgoneta.devolverNumLlantas());
-//        System.out.println(auto.devolverNumAsientos());
+        System.out.println(auto.devolverNumLlantas());
+        System.out.println(moto.devolverNumLlantas());
+        System.out.println(trole.devolverNumLlantas());
+        System.out.println(furgoneta.devolverNumLlantas());
+        System.out.println(auto.devolverNumAsientos());
         System.out.println(objeto.devolverNumLlantas());
         System.out.println(objeto.devolverNumAsientos());
         System.out.println(trole.devolverNumLlantas());
