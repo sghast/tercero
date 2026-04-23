@@ -1,33 +1,138 @@
 <!DOCTYPE html>
+
+<!-- Etiqueta para escribir en el idioma inglés -->
 <html lang="en">
+
+
+<!-- Etiqueta para información del navegador -->
 <head>
+		<!-- Etiqueta para caracteres especiales  -->
     <meta charset="UTF-8">
+    
+    <!-- Etiqueta para contenido adaptable -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fundamentals HTML - CSS</title>
-    <link rel="stylesheet" href="src/css/styles.css">
+    
+    <!-- Etiqueta para el título de la página web  -->
+    <title>Electrostation</title>
+    
+    <!-- Etiqueta para cargar fuentes-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+    <!-- Etiqueta para cargar hoja de estilos CSS -->
+    <link rel="stylesheet" href="./src/css/normalize.css">
+    
+    <!-- Etiqueta para restablecer estilos de los navegadores -->
+    <link rel="stylesheet" href="./src/css/styles.css">
+    
+    <!-- Etiqueta para cargar un favicon-->
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/877/877669.png" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    
 </head>
+
+<link href="https://cdn.boxicons.com/3.0.8/fonts/basic/boxicons.min.css" rel="stylesheet">
+
+<!-- Etiqueta para información a los usuarios -->
 <body>
-    <header>Fundamentos</header>
+    <!-- Start - Section Header -->
+    <header class="container">
+        <nav class="navbar__container">
+                <h1 class="navbar__logo">Electro<span class="navbar__logo--primary">Station</span></h1>
+                <ul>
+                    <li><a href="#">Inico</a></li>
+                    <li><a href="#">Nosotros</a></li>
+                    <li><a href="#">Servicios</a></li>
+                    <li><a href="#">App</a></li>
+                    <li><a href="#">Galería</a></li>
+                    <li><a href="#">Contacto</a></li>
+                    <li><a href="#">Login</a></li>
+                </ul>
+        </nav>
+    </header>
+    <!-- End - Section Header -->
 
-    <hr>
+    <!-- Start - Section Main -->
+    <main class="hero">
+    
+    
+        <div class="hero__text">
+            <h2>Impulsamos tu carga con <span class="hero__title">energía limpia</span></h2>
+            <a href="#" class="button hero__button">Más información</a>
+        </div>
 
-    <section>HTML - lenguaje para la web</section>
-    <section class="css">CSS - lenguaje para los estilos</section>
-    <section id="js">JS - lenguaje para la interactividad</section>
-
-    <hr>
-
-    <main class="padre">
-        Padre
-        <div class="hijo bueno">El hijo bueno</div>
-        <div class="hijo malvado">El hijo malvado</div>
-        <div class="hijo cool">El hijo cool</div>
-        <div class="hijo bipolar">El hijo bipolar</div>
+        <div class="hero__img">
+            <img src="./src/images/Car.png" alt="Auto eléctrico" loading="lazy">
+        </div>
+        
+        <div class="hero__services">
+            <div class="service">
+                <i class='bx  bx-clock-3'></i> 
+                <p>Rápido</p>
+            </div>
+            <div class="service">
+                <i class='bx  bx-lock-keyhole'></i> 
+                <p>Seguro</p>
+            </div>
+            <div class="service">
+                <i class='bx  bx-leaf'></i> 
+                <p>Eficiente</p>
+            </div>
+            <div class="service">
+                <i class='bx  bx-spanner'></i> 
+                <p>24/7</p>
+            </div>
+        </div>
     </main>
+    <!-- End - Section Main -->
 
-    <hr>
+    <!-- Start - Section About -->
+    <header class="container">
+        <div class="about">
+            <div class="about__container">
+                <h2 class="about__title">Sobre Nosotros</h2>
+                <p class="about__text">En ElectroStation, impulsamos la movilidad eléctrica conectándote con las mejores estaciones de carga.
+                </p>
+                <p class="about__text">
+                    Nuestra misión es ofrecerte una experiencia rápida, segura y eficiente, para que cargar tu vehículo sea tan fácil como conducirlo.
+                </p>
+                <p class="about__text">
+                    Creemos en un futuro más limpio y estamos aquí para acompañarte en cada kilómetro.</p>
+                </p>
+            </div>
+    
+            <div class="about__img">
+                <img src="./src/images/About.png" alt="Estaciones de carga" loading="lazy">
+            </div>
+        </div>
+    </header>
+    <!-- End - Section About -->
 
-    <article class="regalo">Soy una caja de regalo</article>
-    <button>hola</button>
+
+    <!-- Start - Section Services -->
+    <!-- End - Section Services -->
+
+
+
+    <!-- Start - Section App -->
+    <!-- End - Section App -->
+
+
+
+    <!-- Start - Section Gallery -->
+    <!-- End - Section Gallery -->
+
+
+
+    <!-- Start - Section Contact -->
+    <!-- End - Section Contact -->
+
+
+    <!-- Start - Section Footer -->
+    <!-- End - Section Footer -->
+
 </body>
+
+
 </html>
