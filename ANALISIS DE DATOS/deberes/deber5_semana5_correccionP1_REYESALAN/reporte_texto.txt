@@ -1,0 +1,9 @@
+Total de palabras en todo el texto: 309
+Total de palabras ÚNICAS en todo el texto: 88
+TOP 5 palabras más frecuentes
+gonna:	 9
+saves:	 9
+maybe:	 6
+wonderwall:	 4
+there:	 4
+Tiempo total en segundos (C1 A C2): 0.315s

@@ -1,0 +1,31 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "python": false,
+    "markdown": false,
+    "plaintext": false,
+    "scminput": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "github.copilot.renameSuggestions.triggerAutomatically": false,
+  "github.copilot.chat.backgroundAgent.enabled": false,
+  "github.copilot.chat.cloudAgent.enabled": false,
+  "github.copilot.chat.executionSubagent.enabled": false,
+  "github.copilot.chat.searchSubagent.enabled": false,
+  "github.copilot.chat.switchAgent.enabled": false,
+  "github.copilot.chat.reviewAgent.enabled": false,
+  "github.copilot.chat.reviewSelection.enabled": false,
+  "github.copilot.chat.copilotMemory.enabled": false,
+  "github.copilot.chat.tools.memory.enabled": false,
+  "github.copilot.chat.tools.viewImage.enabled": false,
+  "github.copilot.chat.imageUpload.enabled": false,
+  "github.copilot.chat.newWorkspaceCreation.enabled": false,
+  "github.copilot.chat.installExtensionSkill.enabled": false,
+  "github.copilot.chat.projectSetupInfoSkill.enabled": false,
+  "github.copilot.chat.getSearchViewResultsSkill.enabled": false,
+  "github.copilot.chat.enableUserPreferences": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.panel.chat.defaultViewId": ""
+}

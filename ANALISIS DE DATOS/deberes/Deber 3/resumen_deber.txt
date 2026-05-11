@@ -1,0 +1,6 @@
+tiempo_dot: 3.5181
+tiempo_mult: 1.0576
+esquqina superior izquierda
+[[0.2  0.06 0.17]
+ [0.25 0.47 0.22]
+ [0.09 0.18 0.03]]
