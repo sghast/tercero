@@ -1,0 +1,21 @@
+id,nombre,precio_compra,categoria,stock,marca,precio_venta
+21,Laptop ASUS VivoBook 14,380.00,Laptops,30,ASUS,649.99
+22,Auriculares Xiaomi Buds 4,35.00,Audio,120,Xiaomi,69.99
+23,Disco Duro Externo 1TB Seagate,38.00,Accesorios,85,Seagate,64.99
+24,Smart TV Xiaomi 50 pulgadas 4K,310.00,Televisores,12,Xiaomi,499.99
+25,Funda Silicona iPhone 15,3.50,Accesorios,400,Genérico,8.99
+26,Mouse Gaming Logitech G203,18.00,Gaming,110,Logitech,34.99
+27,Laptop Apple MacBook Air M2,N/A,Laptops,15,Apple,1299.99
+28,Samsung Galaxy S24 256GB,580.00,Smartphones,25,Samsung,949.99
+29,Power Bank 20000mAh,,Accesorios,180,Xiaomi,29.99
+30,Smart Watch Huawei Band 8,22.00,Accesorios,95,Huawei,44.99
+31,Proyector Epson EpiqVision,350.00,Televisores,8,Epson,599.99
+32,Tarjeta MicroSD 128GB Samsung,12.00,Accesorios,220,Samsung,22.99
+33,Parlante Echo Dot 5ta Gen,25.00,Audio,75,Amazon,54.99
+34,Pad Mouse Gaming XL 80x30,5.00,Gaming,160,Genérico,12.99
+35,Router WiFi 6 TP-Link AX1500,28.00,Accesorios,65,TP-Link,49.99
+36,Tablet Lenovo Tab M10 Plus,140.00,Tablets,28,Lenovo,249.99
+37,Laptop Acer Aspire 5,400.00,Laptops,20,Acer,error
+38,Cámara Web Trust Tyro,15.00,Accesorios,70,Trust,28.99
+39,Auriculares HyperX Cloud Stinger,32.00,Gaming,50,HyperX,59.99
+40,TV Box Xiaomi Mi Stick 4K,28.00,Accesorios,100,Xiaomi,54.99

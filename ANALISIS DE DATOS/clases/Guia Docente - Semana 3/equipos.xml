@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+  <equipo>
+    <id>41</id>
+    <nombre>Impresora HP DeskJet 2775</nombre>
+    <precio_compra>48.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>40</stock>
+    <marca>HP</marca>
+    <precio_venta>89.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>42</id>
+    <nombre>Consola Nintendo Switch OLED</nombre>
+    <precio_compra>260.00</precio_compra>
+    <categoria>Gaming</categoria>
+    <stock>18</stock>
+    <marca>Nintendo</marca>
+    <precio_venta>449.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>43</id>
+    <nombre>Cámara de Seguridad WiFi Xiaomi</nombre>
+    <precio_compra>22.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>75</stock>
+    <marca>Xiaomi</marca>
+    <precio_venta>39.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>44</id>
+    <nombre>Laptop Dell Inspiron 15</nombre>
+    <precio_compra>440.00</precio_compra>
+    <categoria>Laptops</categoria>
+    <stock>texto</stock>
+    <marca>Dell</marca>
+    <precio_venta>749.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>45</id>
+    <nombre>Auriculares Samsung Galaxy Buds FE</nombre>
+    <precio_compra>42.00</precio_compra>
+    <categoria>Audio</categoria>
+    <stock>90</stock>
+    <marca>Samsung</marca>
+    <precio_venta>79.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>46</id>
+    <nombre>Batería Externa Anker 10000mAh</nombre>
+    <precio_compra>N/A</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>130</stock>
+    <marca>Anker</marca>
+    <precio_venta>24.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>47</id>
+    <nombre>Smart TV TCL 55 pulgadas 4K</nombre>
+    <precio_compra>290.00</precio_compra>
+    <categoria>Televisores</categoria>
+    <stock>14</stock>
+    <marca></marca>
+    <precio_venta>479.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>48</id>
+    <nombre>Teclado Logitech K380 Bluetooth</nombre>
+    <precio_compra>22.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>85</stock>
+    <marca>Logitech</marca>
+    <precio_venta>44.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>49</id>
+    <nombre>Smartphone Motorola Moto G54</nombre>
+    <precio_compra>135.00</precio_compra>
+    <categoria>Smartphones</categoria>
+    <stock>60</stock>
+    <marca>Motorola</marca>
+    <precio_venta>229.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>50</id>
+    <nombre>Disco SSD 480GB Kingston</nombre>
+    <precio_compra>28.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>110</stock>
+    <marca>Kingston</marca>
+    <precio_venta>49.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>51</id>
+    <nombre>Chromecast Google TV 4K</nombre>
+    <precio_compra>32.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>55</stock>
+    <marca>Google</marca>
+    <precio_venta>59.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>52</id>
+    <nombre>Laptop Huawei MateBook D15</nombre>
+    <precio_compra>390.00</precio_compra>
+    <categoria>Laptops</categoria>
+    <stock>12</stock>
+    <marca>Huawei</marca>
+    <precio_venta>679.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>53</id>
+    <nombre>Micrófono USB Blue Yeti</nombre>
+    <precio_compra></precio_compra>
+    <categoria>Audio</categoria>
+    <stock>30</stock>
+    <marca>Blue</marca>
+    <precio_venta>119.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>54</id>
+    <nombre>Hub USB-C 7 en 1</nombre>
+    <precio_compra>15.00</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>145</stock>
+    <marca>Ugreen</marca>
+    <precio_venta>29.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>55</id>
+    <nombre>Tablet Samsung Galaxy Tab A9</nombre>
+    <precio_compra>125.00</precio_compra>
+    <categoria>Tablets</categoria>
+    <stock>32</stock>
+    <marca>Samsung</marca>
+    <precio_venta>219.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>56</id>
+    <nombre>Control Xbox Wireless Negro</nombre>
+    <precio_compra>38.00</precio_compra>
+    <categoria>Gaming</categoria>
+    <stock>48</stock>
+    <marca>Microsoft</marca>
+    <precio_venta>69.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>57</id>
+    <nombre>Protector de Pantalla Samsung A15</nombre>
+    <precio_compra>1.50</precio_compra>
+    <categoria>Accesorios</categoria>
+    <stock>600</stock>
+    <marca>Genérico</marca>
+    <precio_venta>4.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>58</id>
+    <nombre>Smart TV Hisense 43 pulgadas FHD</nombre>
+    <precio_compra>195.00</precio_compra>
+    <categoria>Televisores</categoria>
+    <stock>-3</stock>
+    <marca>Hisense</marca>
+    <precio_venta>329.99</precio_venta>
+  </equipo>
+  <equipo>
+    <id>59</id>
+    <nombre>Audífonos JBL Tune 510BT</nombre>
+    <precio_compra>18.00</precio_compra>
+    <categoria>Audio</categoria>
+    <stock>95</stock>
+    <marca>JBL</marca>
+    <precio_venta>error</precio_venta>
+  </equipo>
+  <equipo>
+    <id>60</id>
+    <nombre>Laptop Lenovo ThinkPad E14</nombre>
+    <precio_compra>510.00</precio_compra>
+    <categoria>Laptops</categoria>
+    <stock>10</stock>
+    <marca>Lenovo</marca>
+    <precio_venta>879.99</precio_venta>
+  </equipo>
+</equipos>

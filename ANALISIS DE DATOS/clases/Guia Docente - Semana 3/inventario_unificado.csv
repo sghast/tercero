@@ -1,0 +1,61 @@
+﻿id,nombre,precio_compra,categoria,stock,marca,precio_venta,fuente
+1,Samsung Galaxy A15,145.0,Smartphones,80,Samsung,219.99,json
+2,Audífonos Bluetooth Sony WH-1000,180.0,Audio,45,Sony,349.99,json
+3,Laptop Lenovo IdeaPad 3,420.0,Laptops,25,Lenovo,699.99,json
+4,Cable USB-C 1m,2.5,Accesorios,500,Genérico,5.99,json
+5,Tablet Huawei MatePad T10,110.0,Tablets,35,Huawei,189.99,json
+6,Smart TV LG 43 pulgadas 4K,280.0,Televisores,15,LG,459.99,json
+7,Mouse Inalámbrico Logitech M185,8.0,Accesorios,200,Logitech,15.99,json
+8,Parlante JBL Flip 6,error,Audio,60,JBL,129.99,json
+9,iPhone 15 128GB,650.0,Smartphones,20,Apple,999.99,json
+10,Teclado Mecánico Redragon K552,28.0,Gaming,90,Redragon,54.99,json
+11,Xiaomi Redmi Note 13,160.0,Smartphones,70,Xiaomi,279.99,json
+12,Cargador Rápido 65W,,Accesorios,150,Xiaomi,24.99,json
+13,Monitor Samsung 24 pulgadas FHD,120.0,Accesorios,texto,Samsung,199.99,json
+14,Control PS5 DualSense,45.0,Gaming,55,Sony,74.99,json
+15,Laptop HP Pavilion 15,480.0,Laptops,18,HP,799.99,json
+16,Memoria USB 64GB Kingston,5.0,Accesorios,350,Kingston,9.99,json
+17,Audífonos Apple AirPods 3,110.0,Audio,40,Apple,199.99,json
+18,Webcam Logitech C920,42.0,Accesorios,-5,Logitech,79.99,json
+19,Tablet Apple iPad 10.2,280.0,Tablets,22,Apple,449.99,json
+20,Smart TV Samsung 55 pulgadas QLED,520.0,Televisores,10,,899.99,json
+21,Laptop ASUS VivoBook 14,380.0,Laptops,30,ASUS,649.99,csv
+22,Auriculares Xiaomi Buds 4,35.0,Audio,120,Xiaomi,69.99,csv
+23,Disco Duro Externo 1TB Seagate,38.0,Accesorios,85,Seagate,64.99,csv
+24,Smart TV Xiaomi 50 pulgadas 4K,310.0,Televisores,12,Xiaomi,499.99,csv
+25,Funda Silicona iPhone 15,3.5,Accesorios,400,Genérico,8.99,csv
+26,Mouse Gaming Logitech G203,18.0,Gaming,110,Logitech,34.99,csv
+27,Laptop Apple MacBook Air M2,,Laptops,15,Apple,1299.99,csv
+28,Samsung Galaxy S24 256GB,580.0,Smartphones,25,Samsung,949.99,csv
+29,Power Bank 20000mAh,,Accesorios,180,Xiaomi,29.99,csv
+30,Smart Watch Huawei Band 8,22.0,Accesorios,95,Huawei,44.99,csv
+31,Proyector Epson EpiqVision,350.0,Televisores,8,Epson,599.99,csv
+32,Tarjeta MicroSD 128GB Samsung,12.0,Accesorios,220,Samsung,22.99,csv
+33,Parlante Echo Dot 5ta Gen,25.0,Audio,75,Amazon,54.99,csv
+34,Pad Mouse Gaming XL 80x30,5.0,Gaming,160,Genérico,12.99,csv
+35,Router WiFi 6 TP-Link AX1500,28.0,Accesorios,65,TP-Link,49.99,csv
+36,Tablet Lenovo Tab M10 Plus,140.0,Tablets,28,Lenovo,249.99,csv
+37,Laptop Acer Aspire 5,400.0,Laptops,20,Acer,error,csv
+38,Cámara Web Trust Tyro,15.0,Accesorios,70,Trust,28.99,csv
+39,Auriculares HyperX Cloud Stinger,32.0,Gaming,50,HyperX,59.99,csv
+40,TV Box Xiaomi Mi Stick 4K,28.0,Accesorios,100,Xiaomi,54.99,csv
+41,Impresora HP DeskJet 2775,48.0,Accesorios,40,HP,89.99,xml
+42,Consola Nintendo Switch OLED,260.0,Gaming,18,Nintendo,449.99,xml
+43,Cámara de Seguridad WiFi Xiaomi,22.0,Accesorios,75,Xiaomi,39.99,xml
+44,Laptop Dell Inspiron 15,440.0,Laptops,texto,Dell,749.99,xml
+45,Auriculares Samsung Galaxy Buds FE,42.0,Audio,90,Samsung,79.99,xml
+46,Batería Externa Anker 10000mAh,,Accesorios,130,Anker,24.99,xml
+47,Smart TV TCL 55 pulgadas 4K,290.0,Televisores,14,,479.99,xml
+48,Teclado Logitech K380 Bluetooth,22.0,Accesorios,85,Logitech,44.99,xml
+49,Smartphone Motorola Moto G54,135.0,Smartphones,60,Motorola,229.99,xml
+50,Disco SSD 480GB Kingston,28.0,Accesorios,110,Kingston,49.99,xml
+51,Chromecast Google TV 4K,32.0,Accesorios,55,Google,59.99,xml
+52,Laptop Huawei MateBook D15,390.0,Laptops,12,Huawei,679.99,xml
+53,Micrófono USB Blue Yeti,,Audio,30,Blue,119.99,xml
+54,Hub USB-C 7 en 1,15.0,Accesorios,145,Ugreen,29.99,xml
+55,Tablet Samsung Galaxy Tab A9,125.0,Tablets,32,Samsung,219.99,xml
+56,Control Xbox Wireless Negro,38.0,Gaming,48,Microsoft,69.99,xml
+57,Protector de Pantalla Samsung A15,1.5,Accesorios,600,Genérico,4.99,xml
+58,Smart TV Hisense 43 pulgadas FHD,195.0,Televisores,-3,Hisense,329.99,xml
+59,Audífonos JBL Tune 510BT,18.0,Audio,95,JBL,error,xml
+60,Laptop Lenovo ThinkPad E14,510.0,Laptops,10,Lenovo,879.99,xml
